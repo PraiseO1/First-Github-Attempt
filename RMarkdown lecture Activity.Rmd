@@ -1,0 +1,34 @@
+---
+title: "Class Activity 1"
+author: "Nneoma Ugwu"
+date: "10/23/2020"
+output: html_document
+---
+### Introduction  
+
+My name is **Nneoma Ugwu** and I am a *Civil Engineering MS/PhD* student. I come from Nigeria and My favorite hobby is ~~dancing~~ gardening. My best equation is the area of a triangle $A = 0.5bh^{2}$    
+
+This new paragraph lists my courses this semester. 
+
+* ENCE688-J 
+* ENCE688-I 
+
+### Using the code chunk
+Your goal should be to make your codes not only work but be reproducable and easy to follow. You will learn these in later sections. For now we would create a variable, leave comments and do a simple analysis.
+
+```{r}
+# Assign variables for fruits and compare 
+a <- "apples"
+b <- "bananas"
+a==b
+```
+
+```{r}
+# Assign random numbers and compare 
+a <- 2
+b <- 4/2
+a<=b
+```
+
+### Conclusion
+Congrats! You can use RMarkdown and write codes.
